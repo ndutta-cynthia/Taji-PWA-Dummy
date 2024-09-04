@@ -76,7 +76,7 @@ footer p {
         font-size: 2rem;   /* Increase header font size */
     }
 
-    .landing-image {
+    .landing-image img{
         height: 300px;     /* Adjust image height for larger screens */
         border-radius: 15px; /* Reduce border radius for better proportions */
         margin-bottom: 30px; /* Increase margin for better spacing */
